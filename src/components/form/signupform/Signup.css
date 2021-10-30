@@ -1,0 +1,27 @@
+.Namefeild{
+    margin-top: 100px !important;
+    width: 50%;
+}
+.Passwordfeild,.emailFeild{
+    width: 50%;
+    margin-top: 10px !important;
+}
+
+#loginbtn{
+    margin-top: 10px !important;
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: center !important;
+    align-items: center !important;
+
+}
+
+#alertmessage{
+    margin-top: 10px !important;
+    margin-left: 30%;
+    margin-right: 30%;
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: center !important;
+    align-items: center !important;
+}

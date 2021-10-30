@@ -1,0 +1,12 @@
+#lgout{
+    color: seashell;
+    text-decoration: none;
+}
+#logo{
+    text-align: start;
+}
+#setting,#home{ 
+    text-align: start !important;
+    color: seashell;
+    text-decoration: none;
+}

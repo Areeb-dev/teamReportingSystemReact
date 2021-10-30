@@ -1,0 +1,32 @@
+#modalbtn {
+  position: fixed;
+  bottom: 90px;
+  right: 20px;
+  background-color: #1976d2;
+  color: white !important;
+  border-radius: 50%;
+  width: 5px;
+  height: 60px;
+  
+}
+#teamheading{
+  text-align: center !important;
+}
+.Teamfeild{
+  margin-top: 5px !important;
+  margin-left: 10px !important;
+  width: 75%;
+  padding-top: 5px !important;
+}
+#Addbtn{
+  margin-top: 15px !important;
+  margin-left: 35% !important;
+}
+.btn-holder:hover #plusicon{
+  transition: 0.9s;
+  -webkit-transform: rotateZ(720deg);
+  -moz-transform: rotateZ(720deg);
+  transform: rotateZ(720deg);
+}
+
+
